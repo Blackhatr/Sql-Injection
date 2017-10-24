@@ -1,4 +1,4 @@
 # Sql-Injection
-A deep study about SQL-i. If you are finding deep study about SQLs then you are here at right place.
-This is taken from a website This book is not originally Written or scripted by me.
-Any Copyright I agree.
+This is Deep Study about hacking with Kali Linux.
+In this repository you wiil find many books based on #Hacking using Operating Systems Ubuntu and Kali Linux.
+Kali Linux and Ubuntu both are Linux Kernel.
